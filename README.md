@@ -12,23 +12,23 @@ A simple Node.js + MongoDB application containerized using Docker and Docker Com
 
 ## Project Structure
 
-```
+
 docker-mini-project/
 │── app/
 │── docker-compose.yml
-```
+
 
 ## Run the Project
 
-```bash
+
 docker compose up --build
-```
+
 
 Open:
 
-```
+
 http://localhost:3000
-```
+
 
 ## Features
 
